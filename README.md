@@ -34,3 +34,12 @@ We can also try different type of technology depends on Hardware, time, data, us
 
 1. Resnet
 2. siamese networks
+
+
+### Example Output:
+
+```python
+Input image : "bottoms_resized_png/13585938PXR.png"
+
+Output folder for Top 10 images : In Output_Img folder
+```
