@@ -212,7 +212,7 @@ class ImageSimilarity():
         # print('Time consumed:', datetime.datetime.now()-start)
         # print()
 
-    def iteration(self, save_header, thresh=0.845, title1=None, title2=None):
+    def iteration(self, save_header, thresh=0, title1=None, title2=None):
         '''Calculate the cosine distance of two inputs, save the matched fields to `.csv` file.
 
         Args:
