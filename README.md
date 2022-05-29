@@ -23,3 +23,14 @@ The requirements are also listed down bellow.
 - tensorflow: the newest version for CPU, or the version that matches your GPU and CUDA.
 - h5py
 - numpy
+
+## open-source GitHub repository used
+
+https://github.com/ryanfwy/image-similarity
+
+## Other options
+
+We can also try different type of technolgy depend on Hardware, time, data, use. That are listed below :-
+
+1. Resnet
+2. siamese networks
