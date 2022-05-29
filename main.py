@@ -1,11 +1,3 @@
-'''Image similarity using deep features.
-
-Recommendation: the threshold of the `DeepModel.cosine_distance` can be set as the following values.
-    0.84 = greater matches amount
-    0.845 = balance, default
-    0.85 = better accuracy
-'''
-
 from io import BytesIO
 from multiprocessing import Pool
 import shutil
@@ -13,7 +5,6 @@ import shutil
 import os
 import datetime
 import numpy as np
-import requests
 import h5py
 import argparse
 
