@@ -30,7 +30,7 @@ https://github.com/ryanfwy/image-similarity
 
 ## Other options
 
-We can also try different type of technolgy depend on Hardware, time, data, use. That are listed below :-
+We can also try different type of technology depends on Hardware, time, data, use-case. These are listed below :-
 
 1. Resnet
 2. siamese networks
